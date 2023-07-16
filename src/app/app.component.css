@@ -1,22 +1,26 @@
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 nav {
-    background-color: #172029;
-    color: white;
-    padding: 1em;
+  background-color: #172029;
+  color: white;
+  padding: 1em;
 }
 
 .nav-item .active {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .nav-container {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .align-right {
-    margin-left: auto;
+  margin-left: auto;
+}
+
+.cursor-pointer {
+  cursor: pointer;
 }
